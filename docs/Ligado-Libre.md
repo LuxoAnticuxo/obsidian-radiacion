@@ -1,0 +1,7 @@
+![[ligado libre.png]]
+![[ionizacion.png]]
+![[transiciones ligado libre.png]]
+![[Mas sobre ligado libre.png]]
+![[calculos complejos aaa.png]]
+![[ligado libre discontinuidades.png]]
+![[ligado libre importante.png]]

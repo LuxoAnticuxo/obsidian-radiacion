@@ -1,0 +1,12 @@
+Iniciando con las Cantidades Básicas, tenemos la
+- [[Intensidad específica]]
+- [[Flujo]] 
+- [[Luminosidad]]
+- [[Densidad de energía]] 
+- [[Momentum de un fotón]] 
+- [[Presión de radiación]] 
+- [[Emisión]] -> (jv) está aquí, se ve más adelante, recordar.
+- [[Extinción]] -> (αv) está aquí, se ve más adelante, recordar.
+- [[Función Fuente]]
+- [[Profundidad óptica]]
+- [[Momentum de la intensidad específica]]

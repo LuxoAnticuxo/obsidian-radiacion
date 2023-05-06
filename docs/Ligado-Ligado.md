@@ -1,0 +1,21 @@
+## Cada vez voy entendiendo menos y menos, asi que solo voy a estar colocando las diapositivas prdn
+
+![[ligado ligado 1.png]]![[ligado ligado 2.png]]
+![[excitacion radiativa y coef einstein.png]]
+![[emisión estimulada.png]]
+![[coef de absorcion para excitacion radiativa.png]]
+![[coef de absorcion emision estimulada.png]]
+![[emision espontanea.png]]
+![[dependencia coeficientes.png]]
+![[Enanchamiento de lineas.png]]
+![[Coef de einstein.png]]
+![[Número de ocupacion de los niveles.png]]![[problemas interdependencia.png]]
+![[ley de boltzmann y func de particion.png]]
+![[Ley de Saha.png]]
+![[lineas de balmer.png]]
+![[lineas de balmer 2.png]]
+![[coef de einstein no dependen de la amteria.png]]
+![[seguimiento de coef de einstein no materia.png]]
+![[seguimiento seguimiento.png]]
+![[medicion coef einstein.png]]
+

@@ -1,0 +1,1 @@
+Cuando la [[Emisividad y Absortancia]] son iguales (en la misma longitud de onda)

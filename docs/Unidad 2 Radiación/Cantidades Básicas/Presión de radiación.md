@@ -1,0 +1,1 @@
+![[Presión de radiación.png]]

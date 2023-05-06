@@ -1,0 +1,1 @@
+Si un cuerpo está en [[Equilibrio termodinámico]], Entonces se obtiene que: ![[Ley de Kirchhoff.png]]

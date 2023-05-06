@@ -1,0 +1,1 @@
+![[Extinción.png]]
